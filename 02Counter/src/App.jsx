@@ -17,7 +17,7 @@ if(counter > 0){
   setCounter (counter - 1);
 }  
 }
- 
+  
   return (
     <>
      <h1>React Counter Project</h1>
